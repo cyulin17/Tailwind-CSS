@@ -1,3 +1,3 @@
-# ajax-project
+# Tailwind CSS
 
-A dynamic HTML, CSS, and JavaScript solo project.
+Learn Tailwind CSS.
